@@ -1,7 +1,6 @@
 # Hospital Management System
 
 A comprehensive Hospital Management System designed to streamline and automate the workflow of a hospital. This system helps manage patient records, appointments, billing, staff, and more.
-
 ## Features
 
 - Patient registration and management
